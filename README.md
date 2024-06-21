@@ -1,6 +1,8 @@
 # global-rust-companies
 Collect a list of companies around the world that use Rust in production and the Rust ecosystem.
 
+![](./images/20240621160153970388.png)
+
 ## Technology
 
 - [openAI](https://openai.com/)：从招聘技术栈Python+Rust，可以透露出Rust在大模型领域潜力，[招聘信息](https://mp.weixin.qq.com/s/dSz-LQuo4cwf_Mrk2HSA5A)
